@@ -1,4 +1,4 @@
--- script for call center handson
+-- script for VoC Analysis handson
 USE ROLE ACCOUNTADMIN;
 
 -- cross region call
